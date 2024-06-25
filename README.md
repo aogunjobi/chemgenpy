@@ -1,1 +1,1 @@
-# ChemPlateAI
+# Chemgenpy
