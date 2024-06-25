@@ -1,1 +1,1 @@
-# Chemgenpy
+# ChemGenPy
