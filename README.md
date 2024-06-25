@@ -1,1 +1,1 @@
-# Quaternary-Oxides-
+# ChemPlateAI
