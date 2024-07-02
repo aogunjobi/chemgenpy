@@ -46,7 +46,7 @@ pip install -r requirements.txt
 To start the ChemGenPy GUI, navigate to the `notebooks` directory and run the `main.py` script:
 
 ```bash
-cd chemgenpy/notebooks
+cd chemgenpy/main
 python main.py
 ```
 
