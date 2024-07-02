@@ -16,9 +16,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '.
 print("Python Path:", sys.path)
 
 try:
-    from chemgenpy.constrained import some_function
-    from chemgenpy.feasibility import yet_another_function
-    from chemgenpy.objective_func import another_function
+    from chemgenpy import constrained, feasibility, objective_func
     print("Imports successful.")
 except ImportError as e:
     print("ImportError:", e)
