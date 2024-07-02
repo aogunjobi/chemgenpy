@@ -1,0 +1,7 @@
+future
+six
+numpy
+pandas
+scipy
+ipywidgets
+rdkit  
