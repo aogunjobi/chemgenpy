@@ -62,6 +62,4 @@ python chemgenpy.py -i <input_config_file> -b <building_blocks_file> -o <output_
 - `-b, --building_blocks`: Path to the building blocks file.
 - `-o, --output`: Directory to save the output files.
 
----
 
-You can copy and paste this content into your README file.
