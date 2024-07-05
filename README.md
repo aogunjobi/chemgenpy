@@ -1,7 +1,7 @@
 ---
 
 # ChemGenPy
-
+(Complete documentation on how to use the software application coming soon)
 ChemGenPy is an advanced tool designed for the rapid and parallel generation of extensive molecular libraries, tailored for chemical and materials science applications. It enables users to efficiently create and manage large sets of molecules with customizable constraints and configurations.
 
 ## Features
